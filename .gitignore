@@ -125,11 +125,11 @@ voting-dapp/app/!.yarn/versions
 voting-dapp/app/coverage
 
 # next.js
-voting-dapp/app//.next/
-voting-dapp/app//out/
+voting-dapp/app/.next
+voting-dapp/app/out/
 
 # production
-voting-dapp/app//build
+voting-dapp/app/build
 
 # misc
 voting-dapp/app/.DS_Store
