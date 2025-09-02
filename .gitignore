@@ -22,8 +22,8 @@ curd-dapp/app/!.yarn/versions
 curd-dapp/app/coverage
 
 # next.js
-curd-dapp/app//.next/
-curd-dapp/app//out/
+curd-dapp/app/.next
+curd-dapp/app/out
 
 # production
 curd-dapp/app//build

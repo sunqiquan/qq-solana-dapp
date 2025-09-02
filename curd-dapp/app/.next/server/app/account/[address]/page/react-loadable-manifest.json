@@ -1,9 +1,0 @@
-{
-  "[project]/node_modules/@wallet-ui/react/dist/index.browser.mjs [app-client] (ecmascript, next/dynamic entry)": {
-    "id": "[project]/node_modules/@wallet-ui/react/dist/index.browser.mjs [app-client] (ecmascript, next/dynamic entry)",
-    "files": [
-      "static/chunks/node_modules_09f75831._.js",
-      "static/chunks/node_modules_@wallet-ui_react_dist_index_browser_mjs_9412e273._.js"
-    ]
-  }
-}
