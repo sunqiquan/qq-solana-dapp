@@ -1,0 +1,21 @@
+{
+  "name": "SunQQ Token",
+  "symbol": "SQQ",
+  "description": "A test token deployed on Solana Devnet using Token-2022",
+  "image": "https://raw.githubusercontent.com/sunqiquan/qq-token/main/sqq.png",
+  "attributes": [
+    {
+      "trait_type": "network",
+      "value": "devnet"
+    }
+  ],
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "sqqGCKfrfwbPgjCmCBqLe2GGMQFDpyShgivMFcYus7X",
+        "share": 100
+      }
+    ]
+  }
+}

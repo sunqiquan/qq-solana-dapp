@@ -1,0 +1,151 @@
+.DS_Store
+
+# project curd-app
+curd-dapp/.anchor
+curd-dapp/.DS_Store
+curd-dapp/target
+curd-dapp/curd-dapp/**/*.rs.bk
+curd-dapp/node_modules
+curd-dapp/test-ledger
+curd-dapp/.yarn
+
+curd-dapp/app/node_modules
+curd-dapp/app/.pnp
+curd-dapp/app/.pnp.*
+curd-dapp/app/.yarn/*
+curd-dapp/app/!.yarn/patches
+curd-dapp/app/!.yarn/plugins
+curd-dapp/app/!.yarn/releases
+curd-dapp/app/!.yarn/versions
+
+# testing
+curd-dapp/app/coverage
+
+# next.js
+curd-dapp/app//.next/
+curd-dapp/app//out/
+
+# production
+curd-dapp/app//build
+
+# misc
+curd-dapp/app/.DS_Store
+curd-dapp/app/*.pem
+
+# debug
+curd-dapp/app/npm-debug.log*
+curd-dapp/app/yarn-debug.log*
+curd-dapp/app/yarn-error.log*
+curd-dapp/app/.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+curd-dapp/app/.env*
+
+# vercel
+curd-dapp/app/.vercel
+
+# typescript
+curd-dapp/app/*.tsbuildinfo
+
+# project qq-lending
+qq-lending/.anchor
+qq-lending/.DS_Store
+qq-lending/target
+qq-lending/**/*.rs.bk
+qq-lending/node_modules
+qq-lending/test-ledger
+qq-lending/.yarn
+
+# project qq-lottery
+qq-lottery/.anchor
+qq-lottery/.DS_Store
+qq-lottery/target
+qq-lottery/**/*.rs.bk
+qq-lottery/node_modules
+qq-lottery/test-ledger
+qq-lottery/.yarn
+
+# project qq-nft
+qq-nft/.anchor
+qq-nft/.DS_Store
+qq-nft/target
+qq-nft/**/*.rs.bk
+qq-nft/node_modules
+qq-nft/test-ledger
+qq-nft/.yarn
+
+# project qq-token
+qq-token/.anchor
+qq-token/.DS_Store
+qq-token/target
+qq-token/**/*.rs.bk
+qq-token/node_modules
+qq-token/test-ledger
+qq-token/.yarn
+qq-token/qq-token-metadata/.DS_Store
+
+# project swap
+swap/.anchor
+swap/.DS_Store
+swap/target
+swap/**/*.rs.bk
+swap/node_modules
+swap/test-ledger
+swap/.yarn
+
+# project token-vesting
+token-vesting/.anchor
+token-vesting/.DS_Store
+token-vesting/target
+token-vesting/**/*.rs.bk
+token-vesting/node_modules
+token-vesting/test-ledger
+token-vesting/.yarn
+
+# project voting-dapp
+voting-dapp/.anchor
+voting-dapp/.DS_Store
+voting-dapp/target
+voting-dapp/**/*.rs.bk
+voting-dapp/node_modules
+voting-dapp/test-ledger
+voting-dapp/.yarn
+
+# dependencies
+voting-dapp/app/node_modules
+voting-dapp/app/.pnp
+voting-dapp/app/.pnp.*
+voting-dapp/app/.yarn/*
+voting-dapp/app/!.yarn/patches
+voting-dapp/app/!.yarn/plugins
+voting-dapp/app/!.yarn/releases
+voting-dapp/app/!.yarn/versions
+
+# testing
+voting-dapp/app/coverage
+
+# next.js
+voting-dapp/app//.next/
+voting-dapp/app//out/
+
+# production
+voting-dapp/app//build
+
+# misc
+voting-dapp/app/.DS_Store
+voting-dapp/app/*.pem
+
+# debug
+voting-dapp/app/npm-debug.log*
+voting-dapp/app/yarn-debug.log*
+voting-dapp/app/yarn-error.log*
+voting-dapp/app/.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+voting-dapp/app/.env*
+
+# vercel
+voting-dapp/app/.vercel
+
+# typescript
+voting-dapp/app/*.tsbuildinfo

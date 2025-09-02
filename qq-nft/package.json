@@ -1,0 +1,19 @@
+{
+  "name": "qq-nft",
+  "version": "1.0.0",
+  "description": "this project is for minting nft on solana",
+  "type": "module",
+  "scripts": {
+    "collection": "ts-node create-collection.ts",
+    "nft": "ts-node create-nft.ts",
+    "verify": "ts-node verify.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.2.0",
+    "@solana-developers/helpers": "^2.8.1"
+  }
+}
