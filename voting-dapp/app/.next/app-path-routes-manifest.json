@@ -1,7 +1,0 @@
-{
-  "/favicon.ico/route": "/favicon.ico",
-  "/_not-found/page": "/_not-found",
-  "/account/[address]/page": "/account/[address]",
-  "/account/page": "/account",
-  "/page": "/"
-}

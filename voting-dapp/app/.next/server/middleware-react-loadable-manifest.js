@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"components/solana/solana-provider.tsx -> @wallet-ui/react":{"id":8190,"files":[]}}';
